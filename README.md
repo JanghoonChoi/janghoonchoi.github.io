@@ -16,6 +16,7 @@ I am interested in video analysis and computer vision in general, which involves
 
 ## Education
 
-Ph.D., Electrical Engineering and Computer Science, Seoul National University (Mar. 2013 - Feb. 2021)
-B.S., Electrical and Computer Engineering, Seoul National University (Mar. 2009 - Feb. 2013)
+**Ph.D.**, Electrical Engineering and Computer Science, Seoul National University (Mar. 2013 - Feb. 2021)
+
+**B.S.**, Electrical and Computer Engineering, Seoul National University (Mar. 2009 - Feb. 2013)
 

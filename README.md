@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/JanghoonChoi/janghoonchoi.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am an assistant professor at Kookmin University, Seoul, Korea. I was a postdoctoral researcher at [Computer Vision Lab](https://cv.snu.ac.kr), ASRI, Seoul National University (SNU), Seoul, Korea (Mar. 2021 - Aug. 2021).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[CV](https://www.overleaf.com/read/zqkfvxrkjcyz)
+[Github](https://github.com/JanghoonChoi)
+[Google Scholar](https://scholar.google.com/citations?user=Y9JkA2IAAAAJ&hl=en)
 
-### Markdown
+## Research Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am interested in video analysis and computer vision in general, which involves visual tracking and meta-learning methods.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Education
 
-- Bulleted
-- List
+Ph.D., Electrical Engineering and Computer Science, Seoul National University (Mar. 2013 - Feb. 2021)
+B.S., Electrical and Computer Engineering, Seoul National University (Mar. 2009 - Feb. 2013)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JanghoonChoi/janghoonchoi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

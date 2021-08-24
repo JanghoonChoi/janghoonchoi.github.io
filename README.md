@@ -17,7 +17,7 @@ I am interested in video analysis and computer vision in general, including visu
 ## Education
 
 - **Ph.D.**, Electrical Engineering and Computer Science, Seoul National University (Mar. 2013 - Feb. 2021)
-  - Advisor: Prof. Kyoung Mu Lee
+  - Advisor: [Prof. Kyoung Mu Lee](https://cv.snu.ac.kr/kmlee)
 
 - **B.S.**, Electrical and Computer Engineering, Seoul National University (Mar. 2009 - Feb. 2013)
 

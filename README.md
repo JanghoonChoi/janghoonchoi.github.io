@@ -23,10 +23,10 @@ I am interested in video analysis and computer vision in general, including visu
 ### Preprints
 
 - Sungyong Baik, Myungsub Choi, **Janghoon Choi**, Heewon Kim, and Kyoung Mu Lee, "Learning to Learn Task-Adaptive Hyperparameters for Few-Shot Learning," IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), *Under Review*.
-- **Janghoon Choi**, Sungyong Baik, Myungsub Choi, Junseok Kwon, and Kyoung Mu Lee, "Visual Tracking by Adaptive Continual Meta-Learning," *Under Review*.
 
 ### Peer-reviewed
 
+- **Janghoon Choi**, Sungyong Baik, Myungsub Choi, Junseok Kwon, and Kyoung Mu Lee, "Visual Tracking by Adaptive Continual Meta-Learning," IEEE Access, 2021, *Accepted*.
 - Myungsub Choi, **Janghoon Choi**, Sungyong Baik, Tae Hyun Kim, and Kyoung Mu Lee, "Test-Time Adaptation for Video Frame Interpolation via Meta-Learning," IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), *Accepted*.
 - Sungyong Baik, **Janghoon Choi**, Heewon Kim, Dohee Cho, Jaesik Min, and Kyoung Mu Lee, "Meta-Learning with Task-Adaptive Loss Function for Few-Shot Learning," IEEE International Conference on Computer Vision (ICCV), 2021. (**Oral** presentation)
 - Heewon Kim, Sungyong Baik, Myungsub Choi, **Janghoon Choi**, and Kyoung Mu Lee, "Searching for Controllable Image Restoration Networks," IEEE International Conference on Computer Vision (ICCV), 2021.

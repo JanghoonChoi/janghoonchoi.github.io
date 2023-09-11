@@ -22,6 +22,7 @@ I am interested in video analysis and computer vision in general, including visu
 
 ### Peer-reviewed
 - Sungyong Baik, Myungsub Choi, **Janghoon Choi**, Heewon Kim, and Kyoung Mu Lee, "Learning to Learn Task-Adaptive Hyperparameters for Few-Shot Learning," IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), *Accepted*.
+- **Janghoon Choi**, "Target-Aware Feature Bottleneck for Real-Time Visual Tracking," Applied Sciences, 2023. [[pdf]](https://www.mdpi.com/2076-3417/13/18/10198)
 - **Janghoon Choi**, "Global Context Attention for Robust Visual Tracking," Sensors, 2023. [[pdf]](https://www.mdpi.com/1424-8220/23/5/2695)
 - **Janghoon Choi**, Sungyong Baik, Myungsub Choi, Junseok Kwon, and Kyoung Mu Lee, "Visual Tracking by Adaptive Continual Meta-Learning," IEEE Access, 2022. [[pdf]](https://ieeexplore.ieee.org/document/9682719/)
 - Myungsub Choi, **Janghoon Choi**, Sungyong Baik, Tae Hyun Kim, and Kyoung Mu Lee, "Test-Time Adaptation for Video Frame Interpolation via Meta-Learning," IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022. [[pdf]](https://www.computer.org/csdl/journal/tp/5555/01/09625774/1yLTmJk7bTq)

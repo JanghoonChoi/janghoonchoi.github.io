@@ -2,6 +2,7 @@
 
 I am an assistant professor in Graduate School of Data Science at Kyungpook National University, Daegu, Korea. I was a postdoctoral researcher at [Computer Vision Lab](https://cv.snu.ac.kr), ASRI, Seoul National University (SNU), Seoul, Korea (Mar. 2021 - Aug. 2021).
 
+- [Lab Homepage](https://sites.google.com/view/knu-vilab)
 - [CV](https://www.overleaf.com/read/zqkfvxrkjcyz)
 - [Google Scholar](https://scholar.google.com/citations?user=Y9JkA2IAAAAJ&hl=en)
 

@@ -1,6 +1,6 @@
 ## About
 
-I am an assistant professor in Graduate School of Data Science at Kyungpook National University, Daegu, Korea. I was a postdoctoral researcher at [Computer Vision Lab](https://cv.snu.ac.kr), ASRI, Seoul National University (SNU), Seoul, Korea (Mar. 2021 - Aug. 2021).
+I am an associate professor in Graduate School of Data Science at Kyungpook National University, Daegu, Korea. I was a postdoctoral researcher at [Computer Vision Lab](https://cv.snu.ac.kr), ASRI, Seoul National University (SNU), Seoul, Korea (Mar. 2021 - Aug. 2021).
 
 - [Lab Homepage](https://sites.google.com/view/knu-vilab)
 - [CV](https://www.overleaf.com/read/zqkfvxrkjcyz)
@@ -19,10 +19,11 @@ I am interested in video analysis and computer vision in general, including visu
 - **B.S.**, Electrical and Computer Engineering, Seoul National University (Mar. 2009 - Feb. 2013)
 
 
-## Publications
+## Selected Publications
 
 ### Peer-reviewed
-- Sungyong Baik, Myungsub Choi, **Janghoon Choi**, Heewon Kim, and Kyoung Mu Lee, "Learning to Learn Task-Adaptive Hyperparameters for Few-Shot Learning," IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), *Accepted*.
+- Donghun Lim, **Janghoon Choi**, "FDI-VSR: Video Super-Resolution Through Frequency-Domain Integration and Dynamic Offset Estimation", Sensors, 2025. [[pdf]](https://www.mdpi.com/1424-8220/25/8/2402)
+- Sungyong Baik, Myungsub Choi, **Janghoon Choi**, Heewon Kim, and Kyoung Mu Lee, "Learning to Learn Task-Adaptive Hyperparameters for Few-Shot Learning," IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024. [[pdf]](https://ieeexplore.ieee.org/document/10080995)
 - **Janghoon Choi**, "Target-Aware Feature Bottleneck for Real-Time Visual Tracking," Applied Sciences, 2023. [[pdf]](https://www.mdpi.com/2076-3417/13/18/10198)
 - **Janghoon Choi**, "Global Context Attention for Robust Visual Tracking," Sensors, 2023. [[pdf]](https://www.mdpi.com/1424-8220/23/5/2695)
 - **Janghoon Choi**, Sungyong Baik, Myungsub Choi, Junseok Kwon, and Kyoung Mu Lee, "Visual Tracking by Adaptive Continual Meta-Learning," IEEE Access, 2022. [[pdf]](https://ieeexplore.ieee.org/document/9682719/)

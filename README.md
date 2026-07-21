@@ -22,6 +22,8 @@ I am interested in video analysis and computer vision in general, including visu
 ## Selected Publications
 
 ### Peer-reviewed
+- Jihoon Jang, Donghyuk Choi, **Janghoon Choi**, "Enhanced Product Information Retrieval via Image-to-Searchable Layout Reconstruction", ACM Multimedia Conference (ACMMM), 2026. (*to appear*)
+- Jaegun Lee, **Janghoon Choi**, "Flow-Multi: A Flow-Matching Multi-Reward Framework for Text-to-Image Generation", Sensors, 2026. [[pdf]](https://www.mdpi.com/1424-8220/26/4/1120)
 - Donghun Lim, **Janghoon Choi**, "FDI-VSR: Video Super-Resolution Through Frequency-Domain Integration and Dynamic Offset Estimation", Sensors, 2025. [[pdf]](https://www.mdpi.com/1424-8220/25/8/2402)
 - Sungyong Baik, Myungsub Choi, **Janghoon Choi**, Heewon Kim, and Kyoung Mu Lee, "Learning to Learn Task-Adaptive Hyperparameters for Few-Shot Learning," IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024. [[pdf]](https://ieeexplore.ieee.org/document/10080995)
 - **Janghoon Choi**, "Target-Aware Feature Bottleneck for Real-Time Visual Tracking," Applied Sciences, 2023. [[pdf]](https://www.mdpi.com/2076-3417/13/18/10198)

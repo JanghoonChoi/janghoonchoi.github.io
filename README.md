@@ -22,6 +22,7 @@ I am interested in video analysis and computer vision in general, including visu
 ## Selected Publications
 
 ### Peer-reviewed
+- Jaewan Ko, **Janghoon Choi**, "DLC: Dynamic Loss Controller for Multi-Objective Image Restoration", Asian Conference on Computer Vision (ACCV), 2026. (*to appear*)
 - Jihoon Jang, Donghyuk Choi, **Janghoon Choi**, "Enhanced Product Information Retrieval via Image-to-Searchable Layout Reconstruction", ACM Multimedia Conference (ACMMM), 2026. (*to appear*)
 - Jaegun Lee, **Janghoon Choi**, "Flow-Multi: A Flow-Matching Multi-Reward Framework for Text-to-Image Generation", Sensors, 2026. [[pdf]](https://www.mdpi.com/1424-8220/26/4/1120)
 - Donghun Lim, **Janghoon Choi**, "FDI-VSR: Video Super-Resolution Through Frequency-Domain Integration and Dynamic Offset Estimation", Sensors, 2025. [[pdf]](https://www.mdpi.com/1424-8220/25/8/2402)
